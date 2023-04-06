@@ -1,6 +1,6 @@
-#movie search application(React)
+##-----------movie search application(React)--------------------##
 
-#Features
+#_______________Features_________________________#
 
 Browse movies by title, or search.
 
@@ -8,7 +8,7 @@ View detailed movie information like runtimes, ratings, genre, year
 
 Application that let's you search for movies and TV shows and also let's you add and remove them from favorites
 
-#Technologies used
+#______________Technologies used__________________#
 
 Accesses The Movie Database (Omdb) API for movie related data
 
@@ -22,13 +22,17 @@ Styled with Styled Components
 
 Uses icons from Styled Icons (FontAwesome)
 
-#command:
+#_______________necessary commands__________________#
+
+Extentions: React
 
 npm install
 
 npm run build
 
 npm start
+
+----------------------If any hesitations: sanjanaislami17@gmail.com--------------------------------
 
 
 
